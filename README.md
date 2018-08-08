@@ -12,25 +12,6 @@
 ### This is a software project of 4 students of Rajshahi University of  the couse CSE-3162.
 
 
-# Project Details
-
-
-#
-#
-#
-#
-
-
-# Installing
-
-
-# TestBugs
-
-
-
-# Mongodb:
-
-
 
 
 # Contributor:
