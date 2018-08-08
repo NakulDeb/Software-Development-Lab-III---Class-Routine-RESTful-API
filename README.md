@@ -3,10 +3,6 @@
 # Overview
 
 
-
-
-![first](https://user-images.githubusercontent.com/28553170/36095262-aabeeaaa-101b-11e8-9845-64a78e13bd12.png)
-
 # Sofware Development Lab-II- (CSE-2242)- Project- Meetie
   
    > Software:Android App <br />
