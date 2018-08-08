@@ -16,3 +16,6 @@ University Class Routine API Project for CSE3162
 3. Course routines can be found by searching with course code.  (RoutineByCourseCode) {ফারহা}
 4. Courses can be searched by teacher’s name code.  (RoutineByTeachersName) {মোজাহেদুল}
 
+
+// readme updated
+
