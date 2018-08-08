@@ -1,0 +1,583 @@
+
+
+
+{
+	"department" : "EEE",
+	"year" : "1st",
+	"semester" : "1st",
+	"session" : "2017-18",
+	"course_code": "EEE1101",
+	"course_name" : "Electrical Circuit 1",
+	"day": "Sunday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 230,
+	"instructor_code": "MFH",
+	"instructor_name" : "Dr. Md.Faruk Hossain" 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "1st",
+	"semester" : "1st",
+	"session" : "2017-18",
+	"course_code": "EEE1102",
+	"course_name" : "Electrical Circuit Sessional",
+	"day": "Sunday",
+	"period": "2nd-3rd",
+	"time": "10:20-12:25",
+	"room_no" : 232,
+	"instructor_code": ["MFH","MRI","MSH"],
+	"instructor_name" : ["Dr. Md.Faruk Hossain", "Md.Robiul Islam", "Md.Selin Hossain" ]
+} 
+
+{
+	"department" : "EEE",
+	"year" : "1st",
+	"semester" : "1st",
+	"session" : "2017-18",
+	"course_code": "EEE1101",
+	"course_name" : "Electrical Circuit 1",
+	"day": "Tuesday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 230,
+	"instructor_code": "MFH",
+	"instructor_name" : "Dr. Md.Faruk Hossain" 
+} 
+
+
+
+{
+	"department" : "EEE",
+	"year" : "1st",
+	"semester" : "1st",
+	"session" : "2017-18",
+	"course_code": "EEE1101",
+	"course_name" : "Electrical Circuit 1",
+	"day": "Thursday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 230,
+	"instructor_code": "MFH",
+	"instructor_name" : "Dr. Md.Faruk Hossain" 
+} 
+
+
+{
+	"department" : "EEE",
+	"year" : "1st",
+	"semester" : "1st",
+	"session" : "2017-18",
+	"course_code": "CSE1111",
+	"course_name" : "Computer Programming",
+	"day": "Tuesday",
+	"period": "2nd",
+	"time": "9:15-10:15",
+	"room_no" : 230,
+	"instructor_code": "SA",
+	"instructor_name" : "Dr.Shamim Ahmad" 
+} 
+
+
+{
+	"department" : "EEE",
+	"year" : "1st",
+	"semester" : "1st",
+	"session" : "2017-18",
+	"course_code": "CSE1112",
+	"course_name" : "Computer Programming Sessional",
+	"day": "Tuesday",
+	"period": "2nd",
+	"time": "10:20-12:25",
+	"room_no" : 230,
+	"instructor_code": ["SA","MMR"],
+	"instructor_name" : ["Dr.Shamim Ahmad", "Dr. Md.Masud Rana"] 
+} 
+
+
+{
+	"department" : "EEE",
+	"year" : "1st",
+	"semester" : "1st",
+	"session" : "2017-18",
+	"course_code": "MATH1101",
+	"course_name" : "Engg. Mathematics 1",
+	"day": "Sunday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 230,
+	"instructor_code": "MSH",
+	"instructor_name" : "Md.Sahadat Hossain" 
+} 
+
+
+{
+	"department" : "EEE",
+	"year" : "1st",
+	"semester" : "1st",
+	"session" : "2017-18",
+	"course_code": "MATH1101",
+	"course_name" : "Engg. Mathematics 1",
+	"day": "Tuesday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 230,
+	"instructor_code": "MSH",
+	"instructor_name" : "Md.Sahadat Hossain" 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "1st",
+	"semester" : "1st",
+	"session" : "2017-18",
+	"course_code": "MATH1101",
+	"course_name" : "Engg. Mathematics I",
+	"day": "Thursday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 230,
+	"instructor_code": "MSH",
+	"instructor_name" : "Md.Sahadat Hossain" 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "1st",
+	"semester" : "1st",
+	"session" : "2017-18",
+	"course_code": "PHY1111",
+	"course_name" : "Physics",
+	"day": "Monday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 230,
+	"instructor_code": "MRH",
+	"instructor_name" : "Dr. Md.Rabiul Hossain " 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "1st",
+	"semester" : "1st",
+	"session" : "2017-18",
+	"course_code": "PHY1111",
+	"course_name" : "Physics",
+	"day": "Tuesday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 230,
+	"instructor_code": "MRH",
+	"instructor_name" : "Dr. Md.Rabiul Hossain " 
+} ,
+
+{
+	"department" : "EEE",
+	"year" : "1st",
+	"semester" : "1st",
+	"session" : "2017-18",
+	"course_code": "PHY1111",
+	"course_name" : "Physics",
+	"day": "Thursday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 230,
+	"instructor_code": "MRH",
+	"instructor_name" : "Dr. Md.Rabiul Hossain " 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "1st",
+	"semester" : "1st",
+	"session" : "2017-18",
+	"course_code": "PHY1112",
+	"course_name" : "Physics Sessional",
+	"day": "Monday",
+	"period": "2nd-3rd",
+	"time": "10:20-12:25",
+	"room_no" : 227,
+	"instructor_code": ["MRH","MSA"],
+	"instructor_name" : ["Dr. Md.Rabiul Hossain", "Mr. Md.Selim Anower"] 
+} 
+
+
+{
+	"department" : "EEE",
+	"year" : "1st",
+	"semester" : "1st",
+	"session" : "2017-18",
+	"course_code": "HUM1111",
+	"course_name" : "Technical English",
+	"day": "Tuesday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 230,
+	"instructor_code": "MSA",
+	"instructor_name" : "Mr. Md.Shah Alom " 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "1st",
+	"semester" : "1st",
+	"session" : "2017-18",
+	"course_code": "HUM1111",
+	"course_name" : "Technical English",
+	"day": "Monday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 230,
+	"instructor_code": "MSA",
+	"instructor_name" : "Mr. Md.Shah Alom " 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "1st",
+	"semester" : "1st",
+	"session" : "2017-18",
+	"course_code": "HUM1111",
+	"course_name" : "Technical English",
+	"day": "Wednesday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 230,
+	"instructor_code": "MSA",
+	"instructor_name" : "Mr. Md.Shah Alom " 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "1st",
+	"semester" : "1st",
+	"session" : "2017-18",
+	"course_code": "HUM1112",
+	"course_name" : "Technical English Sessional",
+	"day": "Wednesday",
+	"period": "2nd-3rd",
+	"time": "10:20-12:25",
+	"room_no" : 230,
+	"instructor_code": ["MSA","MTA"],
+	"instructor_name" : ["Mr. Md.Shah Alom", "Mr.Tanvir Ahmed" ]
+} 
+
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "EEE2100",
+	"course_name" : "Electrical Shop practice",
+	"day": "Sunday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 232,
+	"instructor_code": "MZAB",
+	"instructor_name" : "Mr. Md.Zulfiquer Ali Bhotto" 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "EEE2100",
+	"course_name" : "Electrical Shop practice",
+	"day": "Tuesday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 232,
+	"instructor_code": "MZAB",
+	"instructor_name" : "Mr. Md.Zulfiquer Ali Bhotto" 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "EEE2100",
+	"course_name" : "Electrical Shop practice",
+	"day": "Thursday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 232,
+	"instructor_code": "MZAB",
+	"instructor_name" : "Mr. Md.Zulfiquer Ali Bhotto" 
+} 
+
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "EEE2103",
+	"course_name" : "Electrics II",
+	"day": "Sunday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 232,
+	"instructor_code": "MRI",
+	"instructor_name" : "Mr. Md.Rakibul Islam" 
+} 
+
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "EEE2103",
+	"course_name" : "Electrics II",
+	"day": "Monday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 232,
+	"instructor_code": "MRI",
+	"instructor_name" : "Mr. Md.Rakibul Islam" 
+} 
+
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "EEE2103",
+	"course_name" : "Electrics II",
+	"day": "Tuesday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 232,
+	"instructor_code": "MRI",
+	"instructor_name" : "Mr. Md.Rakibul Islam" 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "EEE2104",
+	"course_name" : "Electrics II Sessional",
+	"day": "Monday",
+	"period": "3rd-4th",
+	"time": "11:25-1:30",
+	"room_no" : 240,
+	"instructor_code": ["MRI","AKS"],
+	"instructor_name" : ["Mr. Md.Rakibul Islam", "Dr.Ajay Krishno Sarkar"] 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "EEE2105",
+	"course_name" : "Electrical Machine I",
+	"day": "Sunday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 232,
+	"instructor_code": "MSR",
+	"instructor_name" : "Mr. Md.Sohel Rana" 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "EEE2105",
+	"course_name" : "Electrical Machine I",
+	"day": "Monday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 232,
+	"instructor_code": "MSR",
+	"instructor_name" : "Mr. Md.Sohel Rana" 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "EEE2105",
+	"course_name" : "Electrical Machine I",
+	"day": "Thursday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 232,
+	"instructor_code": "MSR",
+	"instructor_name" : "Mr. Md.Sohel Rana" 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "EEE2106",
+	"course_name" : "Electrical Machine I Sessional",
+	"day": "Thursday",
+	"period": "3rd-4th",
+	"time": "11:25-1:30",
+	"room_no" : 231,
+	"instructor_code": ["MSR","AK"],
+	"instructor_name" : ["Mr. Md.Sohel Rana" , "Mr. Abdul Khaleque"] 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "MATH2101",
+	"course_name" : "Engg. Mathematics III",
+	"day": "Wednesday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 225,
+	"instructor_code": "KKD",
+	"instructor_name" : "Mr. Kollan Kumar Das" 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "MATH2101",
+	"course_name" : "Engg. Mathematics III",
+	"day": "Sunday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 232,
+	"instructor_code": "KKD",
+	"instructor_name" : "Mr. Kollan Kumar Das" 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "MATH2101",
+	"course_name" : "Engg. Mathematics III",
+	"day": "Tuesday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 225,
+	"instructor_code": "KKD",
+	"instructor_name" : "Mr. Kollan Kumar Das" 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "ME2101",
+	"course_name" : "Basic Machanical Engineering",
+	"day": "Monday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 225,
+	"instructor_code": "MFZ",
+	"instructor_name" : "Mr. Md.Forhad Zaman" 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "ME2101",
+	"course_name" : "Basic Machanical Engineering",
+	"day": "Wednesday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 225,
+	"instructor_code": "MFZ",
+	"instructor_name" : "Mr. Md.Forhad Zaman" 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "ME2101",
+	"course_name" : "Basic Machanical Engineering",
+	"day": "Thursday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 225,
+	"instructor_code": "MFZ",
+	"instructor_name" : "Mr. Md.Forhad Zaman" 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "ME2102",
+	"course_name" : "Basic Machanical Engineering Sessional",
+	"day": "Wednesday",
+	"period": "3rd-4th",
+	"time": "11:25-1:30",
+	"room_no" : 233,
+	"instructor_code": "MFZ",
+	"instructor_name" : "Mr. Md.Forhad Zaman" 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "IEP2111",
+	"course_name" : "Legal Issues and Managment for Engineers",
+	"day": "Wednesday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 225,
+	"instructor_code": "MAM",
+	"instructor_name" : "Mr. Mohammod Abdul Motin" 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "IEP2111",
+	"course_name" : "Legal Issues and Managment for Engineers",
+	"day": "Tuesday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 225,
+	"instructor_code": "MAM",
+	"instructor_name" : "Mr. Mohammod Abdul Motin" 
+} 
+
+{
+	"department" : "EEE",
+	"year" : "2nd",
+	"semester" : "1st",
+	"session" : "2016-17",
+	"course_code": "IEP2111",
+	"course_name" : "Legal Issues and Managment for Engineers",
+	"day": "Sunday",
+	"period": "6th",
+	"time": "3:35-4:35",
+	"room_no" : 225,
+	"instructor_code": "MAM",
+	"instructor_name" : "Mr. Mohammod Abdul Motin" 
+} 

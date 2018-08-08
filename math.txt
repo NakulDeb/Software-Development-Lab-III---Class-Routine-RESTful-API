@@ -1,0 +1,1312 @@
+{
+	"department" : "MATH",
+	"year": "1st",
+	"session" : "2017-18",
+	"course_code": "MATH1001",
+	"course_name" : "Algebra and Trigonometry",
+	"day": "Sunday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 302,
+	"instructor_code": "FI",
+	"instructor_name" : "Dr.Fakrul Islam" 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "1st",
+	"session" : "2017-18",
+	"course_code": "MATH1001",
+	"course_name" : "Algebra and Trigonometry",
+	"day": "Monday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 302,
+	"instructor_code": "FI",
+	"instructor_name" : "Dr.Fakrul Islam" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "1st",
+	"session" : "2017-18",
+	"course_code": "MATH1001",
+	"course_name" : "Algebra and Trigonometry",
+	"day": "Thursday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 302,
+	"instructor_code": "FI",
+	"instructor_name" : "Dr.Fakrul Islam" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "1st",
+	"session" : "2017-18",
+	"course_code": "MATH1002",
+	"course_name" : "Geometry of Two and Three Dimensions",
+	"day": "Sunday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 302,
+	"instructor_code": "SA",
+	"instructor_name" : "Dr.Sadequl Arefin" 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "1st",
+	"session" : "2017-18",
+	"course_code": "MATH1002",
+	"course_name" : "Geometry of Two and Three Dimensions",
+	"day": "Thursday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 302,
+	"instructor_code": "SA",
+	"instructor_name" : "Dr.Sadequl Arefin" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "1st",
+	"session" : "2017-18",
+	"course_code": "MATH1002",
+	"course_name" : "Geometry of Two and Three Dimensions",
+	"day": "Wednesday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 302,
+	"instructor_code": "SA",
+	"instructor_name" : "Dr.Sadequl Arefin" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "1st",
+	"session" : "2017-18",
+	"course_code": "MATH1003",
+	"course_name" : "Calculus",
+	"day": "Monday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 302,
+	"instructor_code": "GM",
+	"instructor_name" : "G.M. Abdul Wahab" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "1st",
+	"session" : "2017-18",
+	"course_code": "MATH1003",
+	"course_name" : "Calculus",
+	"day": "Tuesday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 302,
+	"instructor_code": "GM",
+	"instructor_name" : "G.M. Abdul Wahab" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "1st",
+	"session" : "2017-18",
+	"course_code": "MATH1003",
+	"course_name" : "Calculus",
+	"day": "Thursday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 302,
+	"instructor_code": "GM",
+	"instructor_name" : "G.M. Abdul Wahab" 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "1st",
+	"session" : "2017-18",
+	"course_code": "MATH1004",
+	"course_name" : "Set Theory and Matrix",
+	"day": "Sunday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 302,
+	"instructor_code": "GKF",
+	"instructor_name" : "Dr.Golam Kibria Ferdous" 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "1st",
+	"session" : "2017-18",
+	"course_code": "MATH1004",
+	"course_name" : "Set Theory and Matrix",
+	"day": "Monday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 302,
+	"instructor_code": "GKF",
+	"instructor_name" : "Dr.Golam Kibria Ferdous" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "1st",
+	"session" : "2017-18",
+	"course_code": "MATH1004",
+	"course_name" : "Set Theory and Matrix",
+	"day": "Tuesday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 302,
+	"instructor_code": "GKF",
+	"instructor_name" : "Dr.Golam Kibria Ferdous" 
+} 
+
+
+
+{
+	"department" : "MATH",
+	"year": "1st",
+	"session" : "2017-18",
+	"course_code": "PHY1006",
+	"course_name" : "Electricity and Magnetism",
+	"day": "Sunday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 302,
+	"instructor_code": "AM",
+	"instructor_name" : "Md. Abdul Malek" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "1st",
+	"session" : "2017-18",
+	"course_code": "PHY1006",
+	"course_name" : "Electricity and Magnetism",
+	"day": "Tuesday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 302,
+	"instructor_code": "AM",
+	"instructor_name" : "Md. Abdul Malek" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "1st",
+	"session" : "2017-18",
+	"course_code": "PHY1006",
+	"course_name" : "Electricity and Magnetism",
+	"day": "Thursday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 302,
+	"instructor_code": "AM",
+	"instructor_name" : "Md. Abdul Malek" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "MATH2001",
+	"course_name" : "Advance Calculus",
+	"day": "Sunday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 320,
+	"instructor_code": "AH",
+	"instructor_name" : "Md. Abdul Hossain" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "MATH2001",
+	"course_name" : "Advance Calculus",
+	"day": "Monday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 320,
+	"instructor_code": "AH",
+	"instructor_name" : "Md. Abdul Hossain" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "MATH2001",
+	"course_name" : "Advance Calculus",
+	"day": "Thursday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 320,
+	"instructor_code": "AH",
+	"instructor_name" : "Md. Abdul Hossain" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "MATH2002",
+	"course_name" : "Real Analysis I",
+	"day": "Monday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 320,
+	"instructor_code": "FA",
+	"instructor_name" : "Md. Faruk Ahmed" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "MATH2002",
+	"course_name" : "Real Analysis I",
+	"day": "Tuesday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 320,
+	"instructor_code": "FA",
+	"instructor_name" : "Md. Faruk Ahmed" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "MATH2002",
+	"course_name" : "Real Analysis I",
+	"day": "Thursday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 320,
+	"instructor_code": "FA",
+	"instructor_name" : "Md. Faruk Ahmed" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "MATH2003",
+	"course_name" : "Vector and Tensor Analysis",
+	"day": "Sunday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 320,
+	"instructor_code": "MH",
+	"instructor_name" : "Md. Mahmudul Hassan" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "MATH2003",
+	"course_name" : "Vector and Tensor Analysis",
+	"day": "Monday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 320,
+	"instructor_code": "MH",
+	"instructor_name" : "Md. Mahmudul Hassan" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "MATH2003",
+	"course_name" : "Vector and Tensor Analysis",
+	"day": "Sunday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 320,
+	"instructor_code": "MH",
+	"instructor_name" : "Md. Mahmudul Hassan" 
+} 
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "MATH2004",
+	"course_name" : "Ordinary Differential",
+	"day": "Sunsay",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 320,
+	"instructor_code": "AMH",
+	"instructor_name" : "Md. Abdul Motin Hossain" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "MATH2004",
+	"course_name" : "Ordinary Differential",
+	"day": "Wednesday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 320,
+	"instructor_code": "AMH",
+	"instructor_name" : "Md. Abdul Motin Hossain" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "MATH2004",
+	"course_name" : "Ordinary Differential",
+	"day": "Tuesday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 320,
+	"instructor_code": "AMH",
+	"instructor_name" : "Md. Abdul Motin Hossain" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "MATH2005",
+	"course_name" : "Computer Programming(Fortran 90)",
+	"day": "Wednesday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 320,
+	"instructor_code": "SA",
+	"instructor_name" : "Md. Shahin Ahmed" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "MATH2005",
+	"course_name" : "Computer Programming(Fortran 90)",
+	"day": "Thursday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 320,
+	"instructor_code": "SA",
+	"instructor_name" : "Md. Shahin Ahmed" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "MATH2005",
+	"course_name" : "Computer Programming(Fortran 90)",
+	"day": "Tuesday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 320,
+	"instructor_code": "SA",
+	"instructor_name" : "Md. Shahin Ahmed" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "PHY2006",
+	"course_name" : "Heat,Radiation and Optics",
+	"day": "Monday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 320,
+	"instructor_code": "AI",
+	"instructor_name" : "Md. Akram Islam" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "PHY2006",
+	"course_name" : "Heat,Radiation and Optics",
+	"day": "Tuesday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 320,
+	"instructor_code": "AI",
+	"instructor_name" : "Md. Akram Islam" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "PHY2006",
+	"course_name" : "Heat,Radiation and Optics",
+	"day": "Wednesday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 320,
+	"instructor_code": "AI",
+	"instructor_name" : "Md. Akram Islam" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "PHY2007",
+	"course_name" : "Modern Physics and Thermodynamics",
+	"day": "Sunday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 320,
+	"instructor_code": "FR",
+	"instructor_name" : "Md. Fazlur Rahman" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "PHY2007",
+	"course_name" : "Modern Physics and Thermodynamics",
+	"day": "Wednesday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 320,
+	"instructor_code": "FR",
+	"instructor_name" : "Md. Fazlur Rahman" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "PHY2007",
+	"course_name" : "Modern Physics and Thermodynamics",
+	"day": "Thursday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 320,
+	"instructor_code": "FR",
+	"instructor_name" : "Md. Fazlur Rahman" 
+} 
+
+
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "STATS2008",
+	"course_name" : "Statistical Methods and Demography",
+	"day": "Monday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 320,
+	"instructor_code": "NB",
+	"instructor_name" : "Mst. Naznin Begum" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "STATS2008",
+	"course_name" : "Statistical Methods and Demography",
+	"day": "Tuesday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 320,
+	"instructor_code": "NB",
+	"instructor_name" : "Mst. Naznin Begum" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "STATS2008",
+	"course_name" : "Statistical Methods and Demography",
+	"day": "Wednesday",
+	"period": "5th",
+	"time": "2:30-3:30",
+    "room_no" : 320,
+	"instructor_code": "NB",
+	"instructor_name" : "Mst. Naznin Begum" 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "MATH20010",
+	"course_name" : "Math Practical II",
+	"day": "Tuesday",
+	"period": "6th",
+	"time": "3:35-4:35",
+	"room_no" : 320,
+	"instructor_code": "AB",
+	"instructor_name" : "Mst.Annowara Begum" 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "MATH20010",
+	"course_name" : "Math Practical II",
+	"day": "Thursday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 320,
+	"instructor_code": "AB",
+	"instructor_name" : "Mst.Annowara Begum" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "2nd",
+	"session" : "2016-17",
+	"course_code": "MATH20010",
+	"course_name" : "Math Practical II",
+	"day": "Wednesday",
+	"period": "5th",
+	"time": "3:35-4:35",
+	"room_no" : 320,
+	"instructor_code": "AB",
+	"instructor_name" : "Mst.Annowara Begum" 
+} 
+
+
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3001",
+	"course_name" : "Real Analysis II",
+	"day": "Sunday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 322,
+	"instructor_code": "MK",
+	"instructor_name" : "Md. Mostofa Kamal" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3001",
+	"course_name" : "Real Analysis II",
+	"day": "Monday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 322,
+	"instructor_code": "MK",
+	"instructor_name" : "Md. Mostofa Kamal" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3001",
+	"course_name" : "Real Analysis II",
+	"day": "Thursday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 322,
+	"instructor_code": "MK",
+	"instructor_name" : "Md. Mostofa Kamal" 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3002",
+	"course_name" : "Complex Analysis",
+	"day": "Sunday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 322,
+	"instructor_code": "NI",
+	"instructor_name" : "Md. Nazrul Islam" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3002",
+	"course_name" : "Complex Analysis",
+	"day": "Tuesday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 322,
+	"instructor_code": "NI",
+	"instructor_name" : "Md. Nazrul Islam" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3002",
+	"course_name" : "Complex Analysis",
+	"day": "Monday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 322,
+	"instructor_code": "NI",
+	"instructor_name" : "Md. Nazrul Islam" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3003",
+	"course_name" : "Mechanics",
+	"day": "Tuesday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 322,
+	"instructor_code": "KH",
+	"instructor_name" : "Md. Kamrul Hossain" 
+} 
+
+
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3003",
+	"course_name" : "Mechanics",
+	"day": "Sunday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 322,
+	"instructor_code": "KH",
+	"instructor_name" : "Md. Kamrul Hossain" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3003",
+	"course_name" : "Mechanics",
+	"day": "Wednesday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 322,
+	"instructor_code": "KH",
+	"instructor_name" : "Md. Kamrul Hossain" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3004",
+	"course_name" : "Mathematical Methods",
+	"day": "Tuesday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 322,
+	"instructor_code": "TI",
+	"instructor_name" : "Dr. Md.Tanvir Islam" 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3004",
+	"course_name" : "Mathematical Methods",
+	"day": "Thursday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 322,
+	"instructor_code": "TI",
+	"instructor_name" : "Dr. Md.Tanvir Islam" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3004",
+	"course_name" : "Mathematical Methods",
+	"day": "Wednesday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 322,
+	"instructor_code": "TI",
+	"instructor_name" : "Dr. Md.Tanvir Islam" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3005",
+	"course_name" : "Partial Differential Equations",
+	"day": "Monday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 322,
+	"instructor_code": "SH",
+	"instructor_name" : "Dr. Md.Shamsul Hauque" 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3005",
+	"course_name" : "Partial Differential Equations",
+	"day": "Thursday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 322,
+	"instructor_code": "SH",
+	"instructor_name" : "Dr. Md.Shamsul Hauque" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3005",
+	"course_name" : "Partial Differential Equations",
+	"day": "Wednesday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 322,
+	"instructor_code": "SH",
+	"instructor_name" : "Dr. Md.Shamsul Hauque" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3006",
+	"course_name" : "Discrete Mathematics and Programming with C",
+	"day": "Sunday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 322,
+	"instructor_code": "SB",
+	"instructor_name" : "Mst. Shamsunnaar Begum" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3006",
+	"course_name" : "Discrete Mathematics and Programming with C",
+	"day": "Wednesday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 322,
+	"instructor_code": "SB",
+	"instructor_name" : "Mst. Shamsunnaar Begum" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3006",
+	"course_name" : "Discrete Mathematics and Programming with C",
+	"day": "Thursday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 322,
+	"instructor_code": "SB",
+	"instructor_name" : "Mst. Shamsunnaar Begum" 
+} 
+
+
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3007",
+	"course_name" : "Linear Algebra",
+	"day": "Monday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 322,
+	"instructor_code": "NH",
+	"instructor_name" : "Md. Nazmul Hossain" 
+} 
+
+
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3007",
+	"course_name" : "Linear Algebra",
+	"day": "Tuesday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 322,
+	"instructor_code": "NH",
+	"instructor_name" : "Md. Nazmul Hossain" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3007",
+	"course_name" : "Linear Algebra",
+	"day": "Thursday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 322,
+	"instructor_code": "NH",
+	"instructor_name" : "Md. Nazmul Hossain" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3008",
+	"course_name" : "Numerical Analysis",
+	"day": "Monday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 322,
+	"instructor_code": "PK",
+	"instructor_name" : "Mst. Parvin Khatun" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3008",
+	"course_name" : "Numerical Analysis",
+	"day": "Sunday",
+	"period": "6th",
+	"time": "3:35-4:35",
+	"room_no" : 322,
+	"instructor_code": "PK",
+	"instructor_name" : "Mst. Parvin Khatun" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3008",
+	"course_name" : "Numerical Analysis",
+	"day": "Wednesday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 322,
+	"instructor_code": "PK",
+	"instructor_name" : "Mst. Parvin Khatun" 
+} 
+
+
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3009",
+	"course_name" : "Topology and Functional Analysis",
+	"day": "Sunday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 322,
+	"instructor_code": "AH",
+	"instructor_name" : "Md. Azmol Hossain" 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3009",
+	"course_name" : "Topology and Functional Analysis",
+	"day": "Tuesday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 322,
+	"instructor_code": "AH",
+	"instructor_name" : "Md. Azmol Hossain" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3009",
+	"course_name" : "Topology and Functional Analysis",
+	"day": "Thursday",
+	"period": "6th",
+	"time": "3:35-4:35",
+	"room_no" : 322,
+	"instructor_code": "AH",
+	"instructor_name" : "Md. Azmol Hossain" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3011",
+	"course_name" : "Math Practical III",
+	"day": "Monday",
+	"period": "6th",
+	"time": "3:35-4:35",
+	"room_no" : 322,
+	"instructor_code": "HS",
+	"instructor_name" : "Md. Hassan Shahria" 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "3rd",
+	"session" : "2015-16",
+	"course_code": "MATH3011",
+	"course_name" : "Math Practical III",
+	"day": "Wednesday",
+	"period": "6th",
+	"time": "3:35-4:35",
+	"room_no" : 322,
+	"instructor_code": "HS",
+	"instructor_name" : "Md. Hassan Shahria" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4001",
+	"course_name" : "Operations Research",
+	"day": "Sunday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 330,
+	"instructor_code": "HS",
+	"instructor_name" : "Md. Hassan Shahria" 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4001",
+	"course_name" : "Operations Research",
+	"day": "Tuesday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 330,
+	"instructor_code": "HS",
+	"instructor_name" : "Md. Hassan Shahria" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4001",
+	"course_name" : "Operations Research",
+	"day": "Thursday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 330,
+	"instructor_code": "HS",
+	"instructor_name" : "Md. Hassan Shahria" 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4002",
+	"course_name" : "Group Theory",
+	"day": "Sunday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 330,
+	"instructor_code": "AH",
+	"instructor_name" : "Md. Azmol Hossain " 
+} 
+
+
+
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4002",
+	"course_name" : "Group Theory",
+	"day": "Monday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 330,
+	"instructor_code": "AH",
+	"instructor_name" : "Md. Azmol Hossain " 
+} 
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4002",
+	"course_name" : "Group Theory",
+	"day": "Thursday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 330,
+	"instructor_code": "AH",
+	"instructor_name" : "Md. Azmol Hossain " 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4003",
+	"course_name" : "Differential Geometry",
+	"day": "Monday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 330,
+	"instructor_code": "PK",
+	"instructor_name" : "Mst. Parvin Khatun " 
+} 
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4003",
+	"course_name" : "Differential Geometry",
+	"day": "Tuesday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 330,
+	"instructor_code": "PK",
+	"instructor_name" : "Mst. Parvin Khatun " 
+} 
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4003",
+	"course_name" : "Differential Geometry",
+	"day": "Wednesday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 330,
+	"instructor_code": "PK",
+	"instructor_name" : "Mst. Parvin Khatun " 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4004",
+	"course_name" : "Hydrodynamics",
+	"day": "Monday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 330,
+	"instructor_code": "TI",
+	"instructor_name" : "Dr. Md.Tanvir Islam" 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4004",
+	"course_name" : "Hydrodynamics",
+	"day": "Tuesday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 330,
+	"instructor_code": "TI",
+	"instructor_name" : "Dr. Md.Tanvir Islam" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4004",
+	"course_name" : "Hydrodynamics",
+	"day": "Wednesday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 330,
+	"instructor_code": "TI",
+	"instructor_name" : "Dr. Md.Tanvir Islam" 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4005",
+	"course_name" : "Theory of Matrices",
+	"day": "Sunday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 330,
+	"instructor_code": "MK",
+	"instructor_name" : "Md. Mostofa Kamal" 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4005",
+	"course_name" : "Theory of Matrices",
+	"day": "Tuesday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 330,
+	"instructor_code": "MK",
+	"instructor_name" : "Md. Mostofa Kamal" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4005",
+	"course_name" : "Theory of Matrices",
+	"day": "Thursday",
+	"period": "2nd",
+	"time": "11:25-12:25",
+	"room_no" : 330,
+	"instructor_code": "MK",
+	"instructor_name" : "Md. Mostofa Kamal" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4008",
+	"course_name" : "Number Theory",
+	"day": "Sunday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 330,
+	"instructor_code": "NI",
+	"instructor_name" : "Md. Nazrul Islam" 
+} 
+
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4008",
+	"course_name" : "Number Theory",
+	"day": "Wednesday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 330,
+	"instructor_code": "NI",
+	"instructor_name" : "Md. Nazrul Islam" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4008",
+	"course_name" : "Number Theory",
+	"day": "Thursday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 330,
+	"instructor_code": "NI",
+	"instructor_name" : "Md. Nazrul Islam" 
+} 
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4016",
+	"course_name" : "Math Practical IV",
+	"day": "Monday",
+	"period": "5th-6th",
+	"time": "2:30-4:35",
+	"room_no" : 330,
+	"instructor_code": "SH",
+	"instructor_name" : "Dr. Md.Shamsul Hauque" 
+} 
+
+
+
+{
+	"department" : "MATH",
+	"year": "4th",
+	"session" : "2014-15",
+	"course_code": "MATH4016",
+	"course_name" : "Math Practical IV",
+	"day": "Wednesday",
+	"period": "5th-6th",
+	"time": "2:30-4:35",
+	"room_no" : 330,
+	"instructor_code": "SH",
+	"instructor_name" : "Dr. Md.Shamsul Hauque" 
+} 
+
+

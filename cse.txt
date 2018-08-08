@@ -1,0 +1,1173 @@
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3131",
+	"course_name" : "Digital Signal Processing",
+	"day": "Sunday",
+	"period": "1st",
+	"time": "09:15-10:15",
+	"room_no" : 120,
+	"instructor_code": "MEH",
+	"instructor_name" : "Dr. Md.Ekramul Hamid" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3131",
+	"course_name" : "Digital Signal Processing",
+	"day": "Tuesday",
+	"period": "1st",
+	"time": "09:15-10:15",
+	"room_no" : 220,
+	"instructor_code": "MEH",
+	"instructor_name" : "Dr. Md.Ekramul Hamid" 
+}
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3131",
+	"course_name" : "Digital Signal Processing",
+	"day": "Thursday",
+	"period": "1st",
+	"time": "09:15-10:15",
+	"room_no" : 217,
+	"instructor_code": "MEH",
+	"instructor_name" : "Dr. Md.Ekramul Hamid" 
+}
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3111",
+	"course_name" : "Software Engineering",
+	"day": "Sunday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 120 ,
+	"instructor_code": "OMF",
+	"instructor_name" : "Mr. Md. Omar Faruqe" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3111",
+	"course_name" : "Software Engineering",
+	"day": "Monday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 120,
+	"instructor_code": "OMF",
+	"instructor_name" : "Mr. Md. Omar Faruqe" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3111",
+	"course_name" : "Software Engineering",
+	"day": "Tuesday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 217,
+	"instructor_code": "OMF",
+	"instructor_name" : "Mr. Md. Omar Faruqe" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3112",
+	"course_name" : "Database Management Systems",
+	"day": "Monday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 120,
+	"instructor_code": "KJR",
+	"instructor_name" : "Mr. Kaji Jahidur Rahman" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3112",
+	"course_name" : "Database Management Systems",
+	"day": "Wednesday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 120,
+	"instructor_code": "KJR",
+	"instructor_name" : "Mr. Kaji Jahidur Rahman" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3112",
+	"course_name" : "Database Management Systems",
+	"day": "Thursday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 217,
+	"instructor_code": "KJR",
+	"instructor_name" : "Mr. Kaji Jahidur Rahman" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3141",
+	"course_name" : "Compiler Design",
+	"day": "Monday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 120,
+	"instructor_code": "MSI",
+	"instructor_name" : "Mr. Md. Saiful Islam" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3141",
+	"course_name" : "Compiler Design",
+	"day": "Tuesday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 220,
+	"instructor_code": "MSI",
+	"instructor_name" : "Mr. Md. Saiful Islam" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3141",
+	"course_name" : "Compiler Design",
+	"day": "Thursday",
+	"period": "2nd, 2nd, 3rd",
+	"time": "11:25-12:25",
+	"room_no" : 120,
+	"instructor_code": "MSI",
+	"instructor_name" : "Mr. Md. Saiful Islam" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3151",
+	"course_name" : "Computer Networks",
+	"day": "Tuesday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 217,
+	"instructor_code": "AZ",
+	"instructor_name" : "Dr. Asif Zaman" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3151",
+	"course_name" : "Computer Networks",
+	"day": "Wednesday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 120,
+	"instructor_code": "AZ",
+	"instructor_name" : "Dr. Asif Zaman" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3151",
+	"course_name" : "Computer Networks",
+	"day" :"Thursday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 120,
+	"instructor_code": "AZ",
+	"instructor_name" : "Dr. Asif Zaman" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3132",
+	"course_name" : "Digital Signal Processing Lab",
+	"day": "Sunday",
+	"period": "3rd-4th",
+	"time": "11:25-1:30",
+	"room_no" : 217,
+	"instructor_code": ["MEH" , "MRJ" , "UC"],
+	"instructor_name" : ["Dr. Md.Ekramul Hamid" , "Mr.Md.Rokanujjaman" , "Utpalananda Chowdhury"] 
+} 
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3112",
+	"course_name" : "Software Engineering Lab",
+	"day": "Tuesday",
+	"period": "5th-6th",
+	"time": "2:30-4:35",
+	"room_no" : 217,
+	"instructor_code": ["OMF" , "SA" , "MMR"],
+	"instructor_name" : ["Mr. Md. Omar Faruqe", "Dr.Shamim Ahmad" , "Mr. A.F.M. Mahbubur Rahman"] 
+} 
+
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3162",
+	"course_name" : "Software Development Lab III",
+	"day": "Wednesday",
+	"period": "5th-6th",
+	"time": "2:30-4:35",
+	"room_no" : 217,
+	"instructor_code": ["OMF" ,"BKP" , "SP"],
+	"instructor_name" : ["Mr. Md. Omar Faruqe" , "Dr. Bimal Kumar Pramanik" , "Mr. Subrata Pramanik"] 
+} 
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3122",
+	"course_name" : "Database Management Systems Lab",
+	"day": "Wednesday",
+	"period": "1st-2nd",
+	"time": "9:15-11:20",
+	"room_no" : 217,
+	"instructor_code": ["KJR" , "MMA" , "MTI"],
+	"instructor_name" : ["Mr. Kaji Jahidur Rahman" , "Mr. Md.Morshedul Arefin" , "Mr. Md.Tohidul Islam"] 
+} 
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3142",
+	"course_name" : "Compiler Design Lab",
+	"day": "Monday",
+	"period": "3rd-4th",
+	"time": "11:20-1:30",
+	"room_no" : 217,
+	"instructor_code": ["MSI" , "KJR" , "SB"],
+	"instructor_name" : ["Mr. Md. Saiful Islam" , "Mr. Kaji Jahidur Rahman" , "Dr. Sangeeta Biswas"] 
+} 
+
+{
+	"department" : "CSE",
+	"year": "3rd",
+	"semester" : "1st",
+	"session" : "2015-16",
+	"course_code": "CSE3152",
+	"course_name" : "Computer Networks Lab",
+	"day": "Thursday",
+	"period": "5th-6th",
+	"time": "2:30-4:35",
+	"room_no" : 217,
+	"instructor_code": ["AZ" , "SLD" ," MTH"],
+	"instructor_name" : ["Dr. Asif Zaman" , "Dr. Somlal Das" , "Mr. Md.Tanvir Hossain"]
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "CSE2111",
+	"course_name" : "Digital system Design",
+	"day": "Sunday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 219,
+	"instructor_code": "SKC",
+	"instructor_name" : "Mr. Sanjoy Kumar Chakrabarty" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "CSE2111",
+	"course_name" : "Digital system Design",
+	"day": "Monday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 219,
+	"instructor_code": "SKC",
+	"instructor_name" : "Mr. Sanjoy Kumar Chakrabarty" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "CSE2111",
+	"course_name" : "Digital system Design",
+	"day": "Wednesday",
+	"period": "1st, 1st, 4th",
+	"time": "12:30-1:30",
+	"room_no" : 219,
+	"instructor_code": "SKC",
+	"instructor_name" : "Mr. Sanjoy Kumar Chakrabarty" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "CSE2121",
+	"course_name" : "Data Structure",
+	"day": "Sunday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 219,
+	"instructor_code": "MTI",
+	"instructor_name" : "Mr. Md.Tohidul Islam" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "CSE2121",
+	"course_name" : "Data Structure",
+	"day": "Tuesday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 219,
+	"instructor_code": "MTI",
+	"instructor_name" : "Mr. Md.Tohidul Islam" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "CSE2121",
+	"course_name" : "Data Structure",
+	"day": "Wednesday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 219,
+	"instructor_code": "MTI",
+	"instructor_name" : "Mr. Md.Tohidul Islam" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "STAT2111",
+	"course_name" : "Theory Of Statistics",
+	"day": "Sunday",
+	"period": "5th",
+	"time": "10:20-11:20",
+	"room_no" : 219,
+	"instructor_code": "AAB",
+	"instructor_name" : "Dr. Anjuman Ara Begum" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "STAT2111",
+	"course_name" : "Theory Of Statistics",
+	"day": "Tuesday",
+	"period": "5th",
+	"time": "11:25-12:25",
+	"room_no" : 219,
+	"instructor_code": "AAB",
+	"instructor_name" : "Dr. Anjuman Ara Begum" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "ACCO2111",
+	"course_name" : "Industrial Management and Accountancy",
+	"day": "Monday",
+	"period": "5th",
+	"time": "2:30-3:35",
+	"room_no" : 219,
+	"instructor_code": "MIH",
+	"instructor_name" : "Mr. Md.Imran Hossain" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "ACCO2111",
+	"course_name" : "Industrial Management and Accountancy",
+	"day": "Wednesday",
+	"period": "6th",
+	"time": "3:35-4:35",
+	"room_no" : 219,
+	"instructor_code": "MIH",
+	"instructor_name" : "Mr. Md.Imran Hossain" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "MATH2111",
+	"course_name" : "Matrices and Differential Equations",
+	"day": "Sunday",
+	"period": "6th",
+	"time": "3:35-4:35",
+	"room_no" : 219,
+	"instructor_code": "MJH",
+	"instructor_name" : "Dr. Md.Jakir Hossain" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "MATH2111",
+	"course_name" : "Matrices and Differential Equations",
+	"day": "Tuesday",
+	"period": "6th",
+	"time": "3:35-4:35",
+	"room_no" : 219,
+	"instructor_code": "MJH",
+	"instructor_name" : "Dr. Md.Jakir Hossain" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "MATH2111",
+	"course_name" : "Matrices and Differential Equations",
+	"day": "Thursday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 219,
+	"instructor_code": "MJH",
+	"instructor_name" : "Dr. Md.Jakir Hossain" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "CSE2131",
+	"course_name" : "Discrete Mathematics",
+	"day": "Monday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 219,
+	"instructor_code": "MRJ",
+	"instructor_name" : "Mr. Md.Rokanujjaman" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "CSE2131",
+	"course_name" : "Discrete Mathematics",
+	"day": "Tuesday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 219,
+	"instructor_code": "MRJ",
+	"instructor_name" : "Mr. Md.Rokanujjaman" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "CSE2131",
+	"course_name" : "Discrete Mathematics",
+	"day": "Wednesday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 219,
+	"instructor_code": "MRJ",
+	"instructor_name" : "Mr. Md.Rokanujjaman" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "CSE2112",
+	"course_name" : "Digital system Design Lab",
+	"day": "Monday",
+	"period": "2nd-3rd",
+	"time": "10:20-12:25",
+	"room_no" : 220,
+	"instructor_code": ["SKC" , "MEH" , "MRJ"],
+	"instructor_name" : ["Mr. Sanjoy Kumar Chakrabarty" , "Dr. Md.Ekramul Hamid" , "Mr. Md.Rokanujjaman"] 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "CSE2122",
+	"course_name" : "Data Structure Lab",
+	"day": "Sunday",
+	"period": "3rd-4th",
+	"time": "11:25-1:30",
+	"room_no" : 220,
+	"instructor_code": ["MTI" , "AKH" , "MSI"],
+	"instructor_name" : ["Mr. Md.Tohidul Islam" , "Dr. A.K.M. Akhtar Hossain" , "Mr. Md. Saiful Islam"] 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2016-17",
+	"course_code": "CSE2142",
+	"course_name" : "Software Development Lab I",
+	"day": "Thursday",
+	"period": "1st-2nd",
+	"time": "9:15-11:20",
+	"room_no" : 220,
+	"instructor_code": ["SP" , "KJR" , "OMF"],
+	"instructor_name" : ["Mr. Subrata Pramanik" , "Mr. Kaji Jahidur Rahman" , "Mr. Md. Omar Faruqe"] 
+} 
+
+{
+	"department" : "CSE",
+	"year": "2nd",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "APEE1131",
+	"course_name" : "Electrical Circuit and Electronics",
+	"day": "Sunday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 223,
+	"instructor_code": "BKP",
+	"instructor_name" : "Dr. Bimal Kumar Pramanik" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "APEE1131",
+	"course_name" : "Electrical Circuit and Electronics",
+	"day": "Monday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 223,
+	"instructor_code": "BKP",
+	"instructor_name" : "Dr. Bimal Kumar Pramanik" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "APEE1131",
+	"course_name" : "Electrical Circuit and Electronics",
+	"day": "Wednesday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 223,
+	"instructor_code": "BKP",
+	"instructor_name" : "Dr. Bimal Kumar Pramanik" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "APEE1132",
+	"course_name" : "Electrical Circuit and Electronics Lab",
+	"day": "Wednesday",
+	"period": "2nd-3rd",
+	"time": "10:25-12:30",
+	"room_no" : 222,
+	"instructor_code": ["BKP" , "MRJ" , "UC"],
+	"instructor_name" : ["Dr. Bimal Kumar Pramanik" , "Mr. Md.Rokanujjaman" , "Utpalananda Chowdhury"] 
+} 
+
+{
+	"department" : "CSE",
+	"year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "CSE1111",
+	"course_name" : "Computer Fundamentals",
+	"day": "Sunday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 223,
+	"instructor_code": "SLD",
+	"instructor_name" : " Dr. Somlal Das" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "CSE1111",
+	"course_name" : "Computer Fundamentals",
+	"day": "Monday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 223,
+	"instructor_code": "SLD",
+	"instructor_name" : " Dr. Somlal Das" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "CSE1111",
+	"course_name" : "Computer Fundamentals",
+	"day": "Thursday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 223,
+	"instructor_code": "SLD",
+	"instructor_name" : " Dr. Somlal Das" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "CSE1112",
+	"course_name" : "Computer Maintenance and Engineering Drawings Lab",
+	"day": "Monday",
+	"period": "3rd-4th",
+	"time": "11:25-1:30",
+	"room_no" : 220,
+	"instructor_code": ["SLD","SAS","MHR","MSK"],
+	"instructor_name" :["Dr. Somlal Das", "Dr. A.R. Shoyeb Ahmed Siddiqui", "Mr. Md. Hafizur Rahman Joarder"," Mr. Md. Sajjadul Kabir" ]
+} 
+
+{
+	"department" : "CSE",
+	"year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "ENG1111",
+	"course_name" : "Technical and Communicative English",
+	"day": "Monday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 223,
+	"instructor_code": "MUA",
+	"instructor_name" : " Mr. Muktadir Ahmed" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "ENG1111",
+	"course_name" : "Technical and Communicative English",
+	"day": "wednesday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 223,
+	"instructor_code": "MUA",
+	"instructor_name" : " Mr. Muktadir Ahmed" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "MATH1111",
+	"course_name" : "Algebra, Trigonometry and Vector",
+	"day": "Sunday",
+	"period": "6th",
+	"time": "3:35-4:35",
+	"room_no" : 223,
+	"instructor_code": "MJH",
+	"instructor_name" : "Dr. Md.Jakir Hossain" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "MATH1111",
+	"course_name" : "Algebra, Trigonometry and Vector",
+	"day": "Tuesday",
+	"period": "6th",
+	"time": "3:35-4:35",
+	"room_no" : 223,
+	"instructor_code": "MJH",
+	"instructor_name" : "Dr. Md.Jakir Hossain" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "MATH1111",
+	"course_name" : "Algebra, Trigonometry and Vector",
+	"day": "Thursday",
+	"period": "6th",
+	"time": "3:35-4:35",
+	"room_no" : 223,
+	"instructor_code": "MJH",
+	"instructor_name" : "Dr. Md.Jakir Hossain" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "CHEM1111",
+	"course_name" : "Physical and Inorganic Chemistry",
+	"day": "Sunday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 223,
+	"instructor_code": "SMMA",
+	"instructor_name" : "Dr. S.M. Monjurul Alom" 
+} 
+
+{
+	"department" : "CSE",
+    "year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "CHEM1111",
+	"course_name" : "Physical and Inorganic Chemistry",
+	"day": "Tuesday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 223,
+	"instructor_code": "SMMA",
+	"instructor_name" : "Dr. S.M. Monjurul Alom" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "CHEM1111",
+	"course_name" : "Physical and Inorganic Chemistry",
+	"day": "Thursday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 223,
+	"instructor_code": "SMMA",
+	"instructor_name" : "Dr. S.M. Monjurul Alom" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "CSE1121",
+	"course_name" : "Computer Programming with C",
+	"day": "Sunday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 223,
+	"instructor_code": "IAK",
+	"instructor_name" : "Dr. Md.Ikbal Aziz Khan" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "CSE1121",
+	"course_name" : "Computer Programming with C",
+	"day": "Tuesday",
+	"period": "2nd",
+	"time": "10:25-11:25",
+	"room_no" : 223,
+	"instructor_code": "IAK",
+	"instructor_name" : "Dr. Md.Ikbal Aziz Khan" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "CSE1121",
+	"course_name" : "Computer Programming with C",
+	"day": "Thursday",
+	"period": "2nd",
+	"time": "10:25-11:25",
+	"room_no" : 223,
+	"instructor_code": "IAK",
+	"instructor_name" : "Dr. Md.Ikbal Aziz Khan" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "1st",
+	"semester":"1st",
+	"session" : "2017-18",
+	"course_code": "CSE1122",
+	"course_name" : "Computer Programming with C Lab",
+	"day": "Tuesday, Thursday",
+	"period": "3rd-4th, 3rd-4th",
+	"time": "11:25-1:30, 11:25-1:30",
+	"room_no" : 220,
+	"instructor_code": ["IAK","MMA","SKC","SB"],
+	"instructor_name" : ["Dr. Md.Ikbal Aziz Khan", "Mr. Md.Morshedul Arefin", "Mr. Sanjoy Kumar Chakrabarty", "Dr. Sangeeta Biswas"] 
+} 
+
+{
+	"department" : "CSE",
+	"year": "4th",
+	"semester":"1st",
+	"session" : "2014-15",
+	"course_code": "CSE4111",
+	"course_name" : "Parallel Processing and Distributed System",
+	"day": "Monday",
+	"period": "3rd-4th",
+	"time": "11:25-1:30",
+	"room_no" : 220,
+	"instructor_code": "IAK",
+	"instructor_name" : "Dr. Md.Ikbal Aziz Khan" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "4th",
+	"semester":"1st",
+	"session" : "2014-15",
+	"course_code": "CSE4111",
+	"course_name" : "Parallel Processing and Distributed System",
+	"day": "Wednesday",
+	"period": "3rd-4th",
+	"time": "11:25-1:30",
+	"room_no" : 220,
+	"instructor_code": "IAK",
+	"instructor_name" : "Dr. Md.Ikbal Aziz Khan" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "4th",
+	"semester":"1st",
+	"session" : "2014-15",
+	"course_code": "CSE4112",
+	"course_name" : "Parallel Processing and Distributed System Lab",
+	"day": "Sunday",
+	"period": "1st-2nd",
+	"time": "9:15-11:20",
+	"room_no" : 227,
+	"instructor_code": ["IAK","SP","MTI"],
+	"instructor_name" : ["Dr. Md.Ikbal Aziz Khan","Mr. Subrata Pramanik", "Mr. Md.Tohidul Islam"] 
+} 
+
+
+{
+	"department" : "CSE",
+	"year": "4th",
+	"semester":"1st",
+	"session" : "2014-15",
+	"course_code": "CSE4121",
+	"course_name" : "Theory Of Computation",
+	"day": "Sunday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 220,
+	"instructor_code": "MSI",
+	"instructor_name" : "Mr. Md. Saiful Islam" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "4th",
+	"semester":"1st",
+	"session" : "2014-15",
+	"course_code": "CSE4121",
+	"course_name" : "Theory Of Computation",
+	"day": "Wednesday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 220,
+	"instructor_code": "MSI",
+	"instructor_name" : "Mr. Md. Saiful Islam" 
+} 
+
+{
+	"department" : "CSE",
+    "year": "4th",
+	"semester":"1st",
+	"session" : "2014-15",
+	"course_code": "CSE4121",
+	"course_name" : "Theory Of Computation",
+	"day": "Thursday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 229,
+	"instructor_code": "MSI",
+	"instructor_name" : "Mr. Md. Saiful Islam" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "4th",
+	"semester":"1st",
+	"session" : "2014-15",
+	"course_code": "CSE4131",
+	"course_name" : "Computer Simulation and Modeling",
+	"day": "Thursday",
+	"period": "6th",
+	"time": "3:35-4:35",
+	"room_no" : 220,
+	"instructor_code": "MTH",
+	"instructor_name" : "Md.Tanvir Hossain" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "4th",
+	"semester":"1st",
+	"session" : "2014-15",
+	"course_code": "CSE4131",
+	"course_name" : "Computer Simulation and Modeling",
+	"day": "Wednesday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 220,
+	"instructor_code": "MTH",
+	"instructor_name" : "Md.Tanvir Hossain" 
+} 
+
+{
+	"department" : "CSE",
+    "year": "4th",
+	"semester":"1st",
+	"session" : "2014-15",
+	"course_code": "CSE4131",
+	"course_name" : "Computer Simulation and Modeling",
+	"day": "Tuesday",
+	"period": "4th",
+	"time": "12:30-1:30",
+	"room_no" : 223,
+	"instructor_code": "MTH",
+	"instructor_name" : "Md.Tanvir Hossain" 
+} 
+
+{
+	"department" : "CSE",
+    "year": "4th",
+	"semester":"1st",
+	"session" : "2014-15",
+	"course_code": "CSE4132",
+	"course_name" : "Computer Simulation and Modeling Lab",
+	"day": "Monday",
+	"period": "5th-6th",
+	"time": "2:30-4:35",
+	"room_no" : 227,
+	"instructor_code": ["MTH","BKP","UC"],
+	"instructor_name" : ["Md.Tanvir Hossain", "Dr. Bimal Kumar Pramanik", "Utpalananda Chowdhury"] 
+} 
+
+{
+	"department" : "CSE",
+	"year": "4th",
+	"semester":"1st",
+	"session" : "2014-15",
+	"course_code": "CSE4141",
+	"course_name" : "Computer Peripherals and Interfacing",
+	"day": "Monday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 223,
+	"instructor_code": "MMA",
+	"instructor_name" : "Mr. Md.Morshedul Arefin" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "4th",
+	"semester":"1st",
+	"session" : "2014-15",
+	"course_code": "CSE4141",
+	"course_name" : "Computer Peripherals and Interfacing",
+	"day": "Wednesday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 220,
+	"instructor_code": "MMA",
+	"instructor_name" : "Mr. Md.Morshedul Arefin" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "4th",
+	"semester":"1st",
+	"session" : "2014-15",
+	"course_code": "CSE4141",
+	"course_name" : "Computer Peripherals and Interfacing",
+	"day": "Thursday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 220,
+	"instructor_code": "MMA",
+	"instructor_name" : "Mr. Md.Morshedul Arefin" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "4th",
+	"semester":"1st",
+	"session" : "2014-15",
+	"course_code": "CSE4142",
+	"course_name" : "Computer Peripherals and Interfacing Lab",
+	"day": "Thursday",
+	"period": "1st-2nd",
+	"time": "9:15-11:25",
+	"room_no" : 120,
+	"instructor_code": ["MMA","SLD","MSI"],
+	"instructor_name" : ["Mr. Md.Morshedul Arefin", "Dr. Somlal Das", "Mr. Md. Saiful Islam"]
+} 
+
+{
+	"department" : "CSE",
+	"year": "4th",
+	"semester":"1st",
+	"session" : "2014-15",
+	"course_code": "CSE4181",
+	"course_name" : "Digital Image Processing",
+	"day": "Monday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 220,
+	"instructor_code": "MKI",
+	"instructor_name" : "Dr. Md.Khademul Islam Molla" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "4th",
+	"semester":"1st",
+	"session" : "2014-15",
+	"course_code": "CSE4181",
+	"course_name" : "Digital Image Processing",
+	"day": "Wednesday",
+	"period": "5th",
+	"time": "2:30-3:30",
+	"room_no" : 220,
+	"instructor_code": "MKI",
+	"instructor_name" : "Dr. Md.Khademul Islam Molla" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "4th",
+	"semester":"1st",
+	"session" : "2014-15",
+	"course_code": "CSE4181",
+	"course_name" : "Digital Image Processing",
+	"day": "Thursday",
+	"period": "3rd",
+	"time": "11:25-12:25",
+	"room_no" : 219,
+	"instructor_code": "MKI",
+	"instructor_name" : "Dr. Md.Khademul Islam Molla" 
+} 
+
+{
+	"department" : "CSE",
+	"year": "4th",
+	"semester" :"1st",
+	"session" : "2014-15",
+	"course_code": "CSE4182",
+	"course_name" : "Digital Image Processing Lab",
+	"day": "Tuesday",
+	"period": "1st-2nd",
+	"time": "9:15-11:20",
+	"room_no" : 217,
+	"instructor_code": ["MKI","MRJ","AZ"],
+	"instructor_name" : ["Dr. Md.Khademul Islam Molla", "Mr. Md.Rokanujjaman", "Dr. Asif Zaman"] 
+} 
+
+

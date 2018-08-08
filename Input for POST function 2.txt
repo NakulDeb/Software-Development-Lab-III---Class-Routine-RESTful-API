@@ -1,0 +1,152 @@
+{
+	"department" : "CSE",
+	"year": "3rd_1st",
+	"session" : "2015-16",
+	"course_code": "CSE3131",
+	"course_name" : "Digital Signal Processing",
+	"day": "Sunday",
+	"period": "1st",
+	"time": "09:15-10:15",
+	"room_no" : 120,
+	"instructor_code": "MEH",
+	"instructor_name" : "Mohammad Ekramul Hamid" 
+} ,
+
+
+{
+	"department" : "CSE",
+	"year": "3rd_1st",
+	"session" : "2015-16",
+	"course_code": "CSE3132",
+	"course_name" : "Digital Signal Processing Lab",
+	"day": "Sunday",
+	"period": "3rd-4th",
+	"time": "11:25-1:30",
+	"room_no" : 217,
+	"instructor_code": "MEH,MRJ,UC",
+	"instructor_name" : "Mohammad Ekramul Hamid, Md Rokonujjaman, Utpal Chandra" 
+} ,
+
+{
+	"department" : "CSE",
+	"year": "3rd_1st",
+	"session" : "2015-16",
+	"course_code": "CSE3121",
+	"course_name" : "Database Management System",
+	"day": "Monday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 120,
+	"instructor_code": "KJR",
+	"instructor_name" : "Kazi Jahid" 
+} ,
+
+
+{
+	"department" : "CSE",
+	"year": "3rd_1st",
+	"session" : "2015-16",
+	"course_code": "CSE3141",
+	"course_name" : " Compiler Design ",
+	"day": "Monday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 120,
+	"instructor_code": "MSI",
+	"instructor_name" : "Mohammad Saiful Islam" 
+} ,
+
+
+{
+	"department" : "CSE",
+	"year": "3rd_1st",
+	"session" : "2015-16",
+	"course_code": "CSE3142",
+	"course_name" : "Compiler Design Lab",
+	"day": "Monday",
+	"period": "3rd-4th",
+	"time": "11:25-1:30",
+	"room_no" : 217,
+	"instructor_code": "MSI,KJR,SB ",
+	"instructor_name" : "Mohammad Saiful Islam, Kazi Jahid, Sangeeta Biswas" 
+} ,
+
+
+
+
+
+
+{
+	"department" : "ICE",
+	"year": "3rd_1st",
+	"session" : "2015-16",
+	"course_code": "ICE3131",
+	"course_name" : "Digital Signal Processing",
+	"day": "Sunday",
+	"period": "1st",
+	"time": "09:15-10:15",
+	"room_no" : 120,
+	"instructor_code": "AKS",
+	"instructor_name" : "Ajay Krisna Sarkar" 
+} ,
+
+
+{
+	"department" : "ICE",
+	"year": "3rd_1st",
+	"session" : "2015-16",
+	"course_code": "ICE3132",
+	"course_name" : "Telecommunication Lab",
+	"day": "Sunday",
+	"period": "3rd-4th",
+	"time": "11:25-1:30",
+	"room_no" : 217,
+	"instructor_code": "MSH",
+	"instructor_name" : "Md Selim Hossain" 
+} ,
+
+{
+	"department" : "EEE",
+	"year": "3rd_1st",
+	"session" : "2015-16",
+	"course_code": "EEE3121",
+	"course_name" : "Electromagnetic Fields and Waves",
+	"day": "Monday",
+	"period": "1st",
+	"time": "9:15-10:15",
+	"room_no" : 120,
+	"instructor_code": "MSR",
+	"instructor_name" : "Md Masum Rana" 
+} ,
+
+
+{
+	"department" : "EEE",
+	"year": "3rd_1st",
+	"session" : "2015-16",
+	"course_code": "EEE3141",
+	"course_name" : "Power Electronics",
+	"day": "Monday",
+	"period": "2nd",
+	"time": "10:20-11:20",
+	"room_no" : 120,
+	"instructor_code": "NAS",
+	"instructor_name" : "Nasima Ahsan Shurovi" 
+} ,
+
+
+{
+	"department" : "EEE",
+	"year": "3rd_1st",
+	"session" : "2015-16",
+	"course_code": "EEE3151",
+	"course_name" : "Computational Methods in Elecrical Engineering",
+	"day": "Monday",
+	"period": "3rd-4th",
+	"time": "11:25-1:30",
+	"room_no" : 217,
+	"instructor_code": "MSR",
+	"instructor_name" : "Mohammad Shohel Rana" 
+} ,
+
+

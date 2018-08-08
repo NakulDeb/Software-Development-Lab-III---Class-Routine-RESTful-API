@@ -1,0 +1,28 @@
+{
+	"year": "3rd",
+	"day": "SUN DAY",
+	"period": "1st",
+	"subject": "CSE3131",
+	"constructor_name_code": "MEH",
+	"time": "09:15-10:15",
+	"room_no" : 120
+} ,
+{
+	"year": "3rd",
+	"day": "SUN DAY",
+	"period": "2nd",
+	"subject": "CSE3132",
+	"constructor_name_code": "MEH,MRJ,UC",
+	"time": "11:25-01:30",
+	"room_no" : 217
+},
+{
+	"year": "3rd",
+	"day": "SUN DAY",
+	"period": "5th",
+	"subject": "CSE3111",
+	"constructor_name_code": "OMF",
+	"time": "02:30-03:30",
+	"room_no" : 120
+}
+
